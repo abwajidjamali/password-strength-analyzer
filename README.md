@@ -1,6 +1,6 @@
-# 🔐 Password Strength Analyzer API
+#  Password Strength Analyzer API
 
-A fast, offline REST API built in **Rust** (Actix-Web) that analyzes password strength using entropy calculation, common pattern detection, and actionable suggestions.
+A fast and lightweight REST API built in **Rust** that analyzes password strength using entropy calculation, common pattern detection, and actionable suggestions.
 
 ---
 
