@@ -10,12 +10,12 @@ A fast and lightweight REST API built in **Rust** that analyzes password strengt
 
 ## Features
 
-- **Entropy calculation** — bits of entropy based on character pool & length
-- **Crack time estimate** — how long a GPU-based offline attack would take
-- **Pattern detection** — common passwords, keyboard walks, leet-speak, date patterns, repeated/sequential characters
-- **Strength score** — 0–100 score with label (Weak / Fair / Strong / Very Strong)
-- **Suggestions** — specific tips to improve the password
-- **Character pool analysis** — breakdown of character classes used
+- **Entropy calculation** — bits of entropy based on character pool & length.
+- **Crack time estimate** — how long a GPU-based offline attack would take.
+- **Pattern detection** — common passwords, keyboard walks, leet-speak, date patterns, repeated/sequential characters.
+- **Strength score** — 0–100 score with label (Weak / Fair / Strong / Very Strong).
+- **Suggestions** — specific tips to improve the password.
+- **Character pool analysis** — breakdown of character classes used.
 
 ---
 
@@ -69,7 +69,7 @@ Analyze a password.
 ## Getting Started
 
 ### Prerequisites
-- [Rust](https://rustup.rs/)
+- [Rust](https://rustup.rs/) (1.18+)
 
 ### Run locally
 
